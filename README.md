@@ -59,7 +59,7 @@ being available the earliest**.
 - Figure 3 illustrates the fluctuation in the running time between Strategy 4 and the optimal solution for input sizes n ranging from 1 lakh to 10 lakh, with a focus on running time for m = 1 lakh,
   where n - no. of days and m - no. of houses
   
-<img src="Comparative%20Study/No.ofHouses_Vs_Input_Size.png" width="500" /><img src="Comparative%20Study/RunningTime_Vs_Input_Size.png" width="500"/> 
+<img src="Comparative%20Study/No.ofHouses_Vs_Input_Size.png" width="450" /><img src="Comparative%20Study/RunningTime_Vs_Input_Size.png" width="450"/> 
 <p align="center">
   <b>Figure 1 : No.of Houses Vs Input_Size</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b>Figure 2 : Running Time Vs Input_Size</b>
 </p>
