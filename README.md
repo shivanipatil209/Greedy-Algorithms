@@ -11,11 +11,12 @@ This repository contains a collection of different greedy algorithms designed to
 </div>
 
 ## Steps to run
-1. Execute **"make"** command.
+### 1. Using makefile
+- Execute **"make"** command.
    ```
    $ make
    ```
-2. Execute **"make run#"** command to run a particular strategy.
+- Execute **"make run#"** command to run a particular strategy.
    - For example, to execute STRAT1
    ```
    $ make run1
@@ -24,7 +25,15 @@ This repository contains a collection of different greedy algorithms designed to
    ```
    $ make run5
    ```
-   
+### 2. Without using makefile
+  - Compile Java source code files using
+    ```
+    $ javac *.java
+    ```
+   - To execute STRAT1
+     ```
+     $ java STRAT1
+     ```
 ## Algorithms Included
 ### STRAT 1
 - Iterate over each day starting from day 1 . . . n. For each day, among the 
